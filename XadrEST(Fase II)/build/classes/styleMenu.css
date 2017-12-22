@@ -1,0 +1,10 @@
+.root{
+-fx-background-image: url("background.jpg");
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+}
+.button {
+    -fx-padding: 5 22 5 22;   
+    -fx-border-color: #1d1d1d;
+    -fx-background-insets: 0 0 0 0, 0, 1, 2;
+}
